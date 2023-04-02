@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Simple Code Highlighter
-Plugin URI: https://example.com/
-Description: A simple WordPress plugin for syntax highlighting code using Prism.js
-Version: 1.0
-Author: Your Name
-Author URI: https://example.com/
+Plugin Name: WP Simple Code Highlighter
+Plugin URI: https://shaon.pro/
+Description: A simple WordPress plugin for syntax highlighting code using Prism.js Where user can use shortcode and highlight codes. 
+Version: 1.0.0,1
+Author: Mahmudul Hasan Shaon
+Author URI: https://shaon.pro/
 License: GPL2
 */
 
